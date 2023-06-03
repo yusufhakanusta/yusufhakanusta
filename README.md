@@ -1,7 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/j9GjWFFRO7qH7e5XVZ/giphy.gif" width="300" height="150"/>
-  
 </div>
+
+<div align="center">
+  <h1>
+  </h1>
+<div>
 
 <div id="header" align="center">
   <img src="https://docs.kariyer.net/job/jobtemplate/000/000/296/avatar/29638820221027055320416.jpeg" width="300" height="150"/>
