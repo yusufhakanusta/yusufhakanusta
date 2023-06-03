@@ -1,6 +1,14 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/j9GjWFFRO7qH7e5XVZ/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/j9GjWFFRO7qH7e5XVZ/giphy.gif" width="300" height="150"/>
+  <img src="https://docs.kariyer.net/job/jobtemplate/000/000/296/avatar/29638820221027055320416.jpeg" width="300" height="150"/>
+  <img src="https://www.staffnet.manchester.ac.uk/brand/visual-identity/logo/logo_big.gif" width="300" height="150"/>
 </div>
+<div align="center">
+  <h1>
+  </h1>
+<div>
+  
+  
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yusuf-hakan-usta-mres-238895213/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,18 +24,6 @@
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div align="center">
-  <h1>
-  </h1>
-<div>
-<div align="center">
-  <img src="https://docs.kariyer.net/job/jobtemplate/000/000/296/avatar/29638820221027055320416.jpeg" width="400" height="200"/>
-  <img src="https://media.giphy.com/media/3o7TKLC8zBUd7eEteE/giphy.gif" width="400" height="200"/>
-</div>
-<div align="center">
-  <h1>
-  </h1>
-<div>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
