@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/j9GjWFFRO7qH7e5XVZ/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/j9GjWFFRO7qH7e5XVZ/giphy.gif" width="500"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/yusuf-hakan-usta-mres-238895213/">
@@ -18,11 +18,14 @@
 
 <div align="center">
   <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 <div>
-  
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="https://docs.kariyer.net/job/jobtemplate/000/000/296/avatar/29638820221027055320416.jpeg" width="400" height="200"/>
+  <img src="https://media.giphy.com/media/3o7TKLC8zBUd7eEteE/giphy.gif" width="400" height="200"/>
 </div>
+<div align="center">
+  <h1>
+  </h1>
+<div>
+I am a PGRD <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Manchester.
