@@ -9,7 +9,7 @@
 
 <div id="header" align="center">
   <img src="https://docs.kariyer.net/job/jobtemplate/000/000/296/avatar/29638820221027055320416.jpeg" width="300" height="150"/>
-  <img src="https://www.staffnet.manchester.ac.uk/brand/visual-identity/logo/logo_big.gif" width="300" height="150"/>
+  <img src="https://assets.manchester.ac.uk/logos/hi-res/TAB_UNI_MAIN_logo/White_backgrounds/TAB_col_white_background.jpg" width="300" height="150"/>
 </div>
 <div align="center">
   <h1>
